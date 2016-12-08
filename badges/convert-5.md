@@ -1,7 +1,6 @@
 ![Placekitten](http://placekitten.com/g/200/200)
 
-# Name
-Co-op Convert
+# Co-op Convert
 
 # Description 
 This badge is issued to people who contribute knowledge or time to co-op educational projects or programs. It is issued in line with Principle Five of  international co-operation. 

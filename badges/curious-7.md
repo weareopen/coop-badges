@@ -1,3 +1,5 @@
+![Placekitten](http://placekitten.com/g/200/200)
+
 # Co-op Curious
 
 ## Description
