@@ -1,4 +1,4 @@
-![Placekitten](http://placekitten.com/g/200/200)
+![Co-op Curious badge](https://github.com/weareopen/coop-badges/blob/master/badges/images/Coop%20Curious%20400px.png?raw=true)
 
 # Co-op Curious
 
